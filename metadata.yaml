@@ -1,5 +1,8 @@
 _repo: Auf-der-Heidecksburg_72595
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72595-h/images/cover.jpg
 creator:
   author:
     agent_name: Rein, Berthold
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '55093'
     url: http://www.gutenberg.org/2009/agents/55093
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72595#Auf-der-Heidecksburg
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
